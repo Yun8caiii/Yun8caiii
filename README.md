@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on: coding<br>👯 I’m looking to collaborate on: more coding <br>🤝 I’m looking for help with: more and more coding<br>🌱 I’m currently learning: more and more and more coding <br>💬 Ask me about: coding<br>⚡ Fun fact: i am coding
+🔭 I’m currently working on: code<br>👯 I’m looking to collaborate on: more code <br>🤝 I’m looking for help with: more and more code<br>🌱 I’m currently learning: more and more and more code <br>💬 Ask me about: code<br>⚡ Fun fact: i like macaroni and the chicken strips
 
 
 ## 🌐 Socials:
