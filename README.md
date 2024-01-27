@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on: code<br>👯 I’m looking to collaborate on: more code <br>🤝 I’m looking for help with: more and more code<br>🌱 I’m currently learning: more and more and more code <br>💬 Ask me about: code<br>⚡ Fun fact: i like macaroni and the chicken strips
+🔭 I’m currently working on: a weather app!<br>👯 I’m looking to collaborate on: IOS development <br>🤝 I’m looking for help with: Code Efficiency and Productivity<br>🌱 I’m currently learning: Full Stack Development <br>💬 Ask me about: Game Development <br>⚡ Fun fact: I could sit outside under a tree all day long 
 
 
 ## 🌐 Socials:
