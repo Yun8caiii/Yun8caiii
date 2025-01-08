@@ -15,7 +15,7 @@ https://www.yuncai.dev/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yun8caiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"The harder you work for something, the greater you’ll feel when you achieve it."
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
