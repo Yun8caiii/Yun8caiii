@@ -9,7 +9,7 @@
 
 ## About me
 
-Hi there 👋. I’m Yun Cai, but you can call me Jacky! I'm skilled and results-driven Web Developer with a strong background in Web Development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Javascript, I build solutions that are not only functional but also gratifying. Besides my 9to5, I love to give back to the community by blogging, building applications, and open-sourcing my ideas. If I’m not learning new things then i'm probably wondering about the universe’s existence.
+Hi there 👋. I’m Yun Cai, but you can call me Jacky! I'm skilled and results-driven Web Developer with a strong background in Web Development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Javascript, I build solutions that are not only functional but also gratifying. Besides my 9to5, I love to give back to the community by blogging, building applications, and open-sourcing my ideas. If I’m not doing software projects, I like to build different Hardware application and solve mechanical issues.
 
 ## Get in touch :coffee:
 
